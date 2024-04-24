@@ -28,3 +28,7 @@ After successfully installing the Arcane Rust Client, you can activate the visua
 ## Support
 
 For support, please open an issue in the repository or contact our support team through the provided contact details.
+
+## Screenshots
+
+![Arcane Visuals](vvv.png)
